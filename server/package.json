@@ -17,7 +17,11 @@
     "express",
     "mongodb",
     "mongoose",
-    "redux"
+    "redux",
+    "cookies",
+    "authentication",
+    "passport",
+    "session"
   ],
   "author": "Binay Verma",
   "license": "MIT",
