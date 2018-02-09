@@ -1,2 +1,2 @@
-# emaily-server
-A Nodejs server for an email survey client
+# emaily
+A Nodejs app for an email survey client
